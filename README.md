@@ -1,7 +1,7 @@
 # Educase Frontend Assignment 
 
 ## 🌍 Deployment URL  
-🔗 **Live App:** [https://educase-frontend-popx.vercel.app](https://educase-frontend-popx.vercel.app/)
+🔗 **Live App:** [https://educase-task-six.vercel.app/](https://educase-task-six.vercel.app/)
 
 
 ## 🚀 Project Overview  
@@ -24,7 +24,7 @@ A pixel-perfect mobile app UI built with React and Tailwind CSS. Includes Home, 
 
 ## 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Arjunp04/educase_frontend.git
+git clone https://github.com/AkashS0109/EducaseTask.git
 ```
 
 ## 2️⃣  Install Dependencies
